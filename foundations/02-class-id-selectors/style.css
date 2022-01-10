@@ -1,0 +1,19 @@
+.odd {
+  background-color: pink;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#paragraph-two {
+  color: blue;
+  font-size: 36px;
+}
+
+.large-font {
+  font-size: 24px;
+}
+
+#paragraph-four {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
